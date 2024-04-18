@@ -10,5 +10,5 @@ require 'vendor/autoload.php'; // Cargar dependencias de MongoDB
 // Conexión con MongoDB
 $client = new MongoDB\Client("mongodb://localhost:27017");
 $collection = $client->testdb->users; // Cambiar "testdb" y "users" según tu base de datos y colección
-?> ```
+?> 
 
