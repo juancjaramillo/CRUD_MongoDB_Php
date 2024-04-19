@@ -19,7 +19,6 @@ Dentro de composer.json, especifica las dependencias que deseas instalar. Para e
     }
 }
 ```
-
 3. **Ejecutar Composer:**
 Abre una terminal o línea de comandos en el directorio de tu proyecto.
 Ejecuta el comando **composer install** para instalar las dependencias especificadas en composer.json, incluyendo el controlador de MongoDB para PHP.
